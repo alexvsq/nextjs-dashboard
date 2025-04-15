@@ -1,4 +1,6 @@
-import bcrypt from 'bcrypt';
+//solo usar una vez
+
+/* import bcrypt from 'bcrypt';
 import postgres from 'postgres';
 import { invoices, customers, revenue, users } from '../lib/placeholder-data';
 
@@ -115,3 +117,4 @@ export async function GET() {
     return Response.json({ error }, { status: 500 });
   }
 }
+ */
